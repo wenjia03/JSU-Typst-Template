@@ -16,7 +16,7 @@
 
 | 模板名称         | 学院                 | 基于课程                                         | Example                                                      |
 | ---------------- | -------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
-| 实验报告（无框） | 计算机科学与工程学院 | Java Web B（似乎这个模板也是基于数据库原理改的） | [Example]([JSU-Typst-Template/Templates/实验报告(无框）/index.pdf at main · wenjia03/JSU-Typst-Template (github.com)](https://github.com/wenjia03/JSU-Typst-Template/blob/main/Templates/实验报告(无框）/index.pdf)) |
+| 实验报告（无框） | 计算机科学与工程学院 | Java Web B（似乎这个模板也是基于数据库原理改的） | [Example](https://github.com/wenjia03/JSU-Typst-Template/blob/main/Templates/实验报告(无框）/index.pdf)) |
 
 ## 使用
 
